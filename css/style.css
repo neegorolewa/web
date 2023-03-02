@@ -1,0 +1,199 @@
+.top {
+    background-color: black;
+    background: url(../images/Сanyon.jpg) no-repeat;
+    background-size: cover;
+}
+
+.top_text__header {
+    font-size: 26px;
+    line-height: 26px;
+    font-Family: 'Lora';
+    color: #ffff
+}
+
+.top_text__header1 {
+    font-size: 50px;
+    line-height: 51px;
+    font-family: 'Lora';
+    letter-spacing: 2px;
+    color: #ffff
+}
+
+.top_text__links {
+    font-size: 11px;
+    line-height: 20px;
+    font-family: 'Oxygen';
+    text-decoration: none;
+    color: #ffff;
+}
+
+.top_text__underh1 {
+    font-size: 17px;
+    line-height: 20px;
+    color: rgb(255, 255, 255, 0.7)
+}
+
+.top__button {
+    background: #DD783F;
+    border-radius: 3px;
+    border: 0px;
+    width: 167px;
+    height: 44px;
+    font-size: 13px;
+    font-family: 'Oxygen';
+    line-height: 20px;
+    color: #ffffff;
+}
+
+.navigation {
+    background-color: #ffffff;
+}
+
+.navigation__text {
+    font-size: 14px;
+    font-family: 'Lora';
+    line-height: 20px;
+    color: #768088;
+    text-decoration: none;
+}
+
+.middle {
+    background-color: #F7F7F7;
+}
+
+.middle_main__header {
+    font-family: 'Oxygen';
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 2px;
+    color: #2E2E2E;
+}
+
+.middle_block1 {
+    background: url(../images/Shine.jpg) no-repeat;
+    background-size: cover;
+    width: 460px;
+    height: 280px;
+}
+
+.middle_block2 {
+    background: url(../images/Ballon_fire.jpg) no-repeat;
+    background-size: cover;
+    width: 460px;
+    height: 280px;
+}
+
+.middle_name__featured {
+    font-size: 27px;
+    font-family: 'Lora';
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.block__text {
+    font-size: 14px;
+    line-height: 25px;
+    font-family: 'Oxygen';
+    color: rgb(255, 255, 255, 0.7);
+}
+
+.block_name__author {
+    font-size: 12px;
+    font-family: 'Oxygen';
+    line-height: 35px;
+    color: rgb(255, 255, 255, 0.7);
+}
+
+.middle_block2__modified {
+    width: 87px;
+    height: 26px;
+    border-radius: 2px;
+    background-color: #DD783F;
+    font-size: 12px;
+    font-family: 'Oxygen';
+    line-height: 13px;
+    color: #FFFFFF
+}
+
+.block_most_main__background {
+    background-color: #FFFFFF;
+    width: 296px;
+    height: 291px;
+}
+
+.block_name__text {
+    font-size: 16px;
+    font-family: 'Lora';
+    line-height: 21px;
+    color: #101315
+}
+
+.block__text {
+    font-size: 13px;
+    font-family: 'Oxygen';
+    line-height: 19px;
+    color: #7A7A7A
+}
+
+.block_author__text {
+    font-size: 11px;
+    font-family: 'Oxygen';
+    line-height: 35px;
+    color: #999999;
+}
+
+.footer__background {
+    background: rgba(35, 47, 56, 0.6);
+    border-radius: 0px;
+}
+
+.footer_navigation__text {
+    font-size: 11px;
+    line-height: 26px;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+}
+
+.top_theroadahead {
+    background-color: #F5F5F5;
+}
+
+.middle_theroadahead {
+    background-color: #F7F7F7;
+}
+
+.top_theroadahead_text__header {
+    font-size: 26px;
+    font-family: 'Lora';
+    line-height: 26px;
+    color: #2E2E2E
+}
+
+.top_theroadahead__navigation {
+    font-family: 'Oxygen';
+    font-size: 12px;
+    line-height: 20px;
+    color: #2E2E2E;
+    text-decoration: none;
+}
+
+.top_theroadahead_header1 {
+    font-size: 50px;
+    font-family: 'Lora';
+    line-height: 51px;
+    color: #2E2E2E
+}
+
+.top_theroadahead_underh1 {
+    font-family: 'Oxygen';
+    font-size: 17px;
+    line-height: 20px;
+    color: rgba(46, 46, 46, 0.63)
+}
+
+.middle_theroadahead_text {
+    font-family: 'Oxygen';
+    font-size: 24px;
+    line-height: 35px;
+    color: #101315
+}
